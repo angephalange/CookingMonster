@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookingwithmama.Plugins", "Cookingwithmama.Plugins.csproj", "{1ACC577B-235A-81B9-943F-11B125791C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookingwithmama", "Cookingwithmama.csproj", "{6ED3EA55-D70E-4CF1-70DC-89481E10E20B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookingwithmama.Editor", "Cookingwithmama.Editor.csproj", "{5151D60F-A16C-BBD8-AD95-DB0DE0864F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ACC577B-235A-81B9-943F-11B125791C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACC577B-235A-81B9-943F-11B125791C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACC577B-235A-81B9-943F-11B125791C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACC577B-235A-81B9-943F-11B125791C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED3EA55-D70E-4CF1-70DC-89481E10E20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED3EA55-D70E-4CF1-70DC-89481E10E20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED3EA55-D70E-4CF1-70DC-89481E10E20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED3EA55-D70E-4CF1-70DC-89481E10E20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5151D60F-A16C-BBD8-AD95-DB0DE0864F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5151D60F-A16C-BBD8-AD95-DB0DE0864F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5151D60F-A16C-BBD8-AD95-DB0DE0864F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5151D60F-A16C-BBD8-AD95-DB0DE0864F85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
